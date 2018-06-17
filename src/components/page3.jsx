@@ -1,4 +1,4 @@
-import react from 'react';
+import React, { Component } from 'react'
 
 class Page3Component extends Component {
   render = () => (
@@ -8,7 +8,7 @@ class Page3Component extends Component {
       <p>Age: 24</p>
       <p>Location: Florida</p>
     </div>
-  );
+  )
 }
 
-export default Page3Component;
+export default Page3Component

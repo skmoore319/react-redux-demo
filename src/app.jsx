@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './routers/Router.jsx'
+import App from './components/dashboard.jsx'
 
 // a new change
 
