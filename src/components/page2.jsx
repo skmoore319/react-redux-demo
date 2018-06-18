@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Page2A from './page2a';
 
 class Page2 extends Component {
     state = {
@@ -12,6 +13,7 @@ class Page2 extends Component {
       <h1>This is Page 2!</h1>
       <p>I am Scott</p>
       <p>27</p>
+      <Page2A />
     </div>
   )
 }
