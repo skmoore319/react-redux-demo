@@ -3,7 +3,7 @@ demo app
 
 ## Installed with NPM
 ## 6/18/2018
-npm install --save redux\n
+npm install --save redux
 npm install --save react-redux
 npm install --save react-router
 npm install --save react-router-dom
